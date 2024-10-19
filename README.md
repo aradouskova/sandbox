@@ -1,7 +1,8 @@
-# A - Název projektu
+# A - Výpočet volného stanoviska a výpočet polohy koleje 
 
 Odstavec se zadáním projektu. Cíle projektu...
 
 Seznam členů:
-* Josef Pepa
-* Anna Janová
+* Veronika Kovalenko
+* Adéla Radoušková
+* František Vavruška
